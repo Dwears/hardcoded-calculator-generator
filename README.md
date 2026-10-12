@@ -11,3 +11,7 @@ If you attempt to chain thousands of `else if` statements, the Clang compiler cr
 1. Compile the generator:
    ```bash
    gcc generator.c -o generator
+
+## Content Creators
+
+Feel free to use this code in your videos! If you make a Reel, Short, or TikTok using this calculator, tag me so I can check it out!
