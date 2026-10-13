@@ -11,4 +11,6 @@ int main(){
 		}
 	}
 	fprintf(file, "\n\treturn 0;\n}");
+	fclose(file);
+	return 0;
 }
